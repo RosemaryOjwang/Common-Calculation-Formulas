@@ -7,10 +7,11 @@ Version 1.0.0 (09-24-2024)
     - Added Column "Growth from Previous year" to measure the rate of change between the years.
     -Added %growth coumn to track growth rate in percentage.
     -Added 'Average by month' row to trach average sales between months to learn if there is a trend.
+    -Added a row for the Lowest monthly average sale and another for the highest monthly average sale.
 
 ## Changes 
     - Applied conditional formatting to the cells with the Average Sales by month.
-    - Removal of whitespace (cosmetic)
+    
 
 ## Fixes
     - Fixed misalignment in Column "TotalCost" where some rows did not match with correct dates
