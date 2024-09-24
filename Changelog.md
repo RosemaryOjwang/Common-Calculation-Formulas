@@ -9,7 +9,7 @@ Version 1.0.0 (09-24-2024)
     -Added 'Average by month' row to trach average sales between months to learn if there is a trend.
 
 ## Changes 
-    - Changed date format to MM-DD-YYYY
+    - Applied conditional formatting to the cells with the Average Sales by month.
     - Removal of whitespace (cosmetic)
 
 ## Fixes
