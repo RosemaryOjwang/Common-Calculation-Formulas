@@ -5,6 +5,7 @@ Version 1.0.0 (09-24-2024)
 ## New
     - Added Annual Sales column to find annual sales over the years. 
     - Added Column "Growth from Previous year" to measure the rate of change between the years.
+    -Added %growth coumn to track growth rate in percentage.
 
 ## Changes 
     - Changed date format to MM-DD-YYYY
